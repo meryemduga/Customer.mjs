@@ -33,3 +33,5 @@ function toonKlantInfo(stud) {
 console.log("\nOutput van de functie:\n");
 toonKlantInfo(klant);
 
+process.exit();
+
